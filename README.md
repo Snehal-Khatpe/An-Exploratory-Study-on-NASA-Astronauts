@@ -12,3 +12,9 @@ This project work contributes to a greater understanding of human exploration, i
 * Educational Diversity: Explored top graduate majors, showcasing intellectual variety.
 * Fellowship and Origins: Underlined the exclusive nature of cosmic exploration and diverse origins of astronauts.
 * Dedication to Exploration: Averages reflected dedication and courage in scientific pursuit.
+
+-- nasa.csv -> Raw data set
+-- Module_dataCleaning.ipynb -> contains data cleaning section
+-- astronauts.csv -> Cleaned data 
+-- nasa_database.sql -> Database in sql
+-- nasaDataAnalysis.sql -> Insights (Queries)
