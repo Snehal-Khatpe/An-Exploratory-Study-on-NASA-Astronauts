@@ -5,7 +5,7 @@ Through deep analysis, revealed patterns and trends that showcase the collective
 This project work contributes to a greater understanding of human exploration, inspiring researchers and space enthusiasts alike.
 
 -- After meticulously cleaning the data using Python, I seamlessly imported the refined dataset into MySQL for in-depth analysis. 
--- The following are the insightful observations derived from this thorough examination:
+   The following are the insightful observations derived from this thorough examination:
 
 * Status and Military Experience: Revealed diverse career trajectories and ranks held in armed forces.
 * Gender and Life Expectancy: Highlighted inclusivity and the spirit of exploration.
